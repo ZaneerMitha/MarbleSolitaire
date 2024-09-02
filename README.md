@@ -1,4 +1,4 @@
-# ♠♦️ MarbleSolitaire Overview
+# ♦️ MarbleSolitaire Overview ♠
 
 ## ℹ️ What is it?
 
